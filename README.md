@@ -1,7 +1,7 @@
 # Стек мониторинга
         NodeExporer
         Prometheus
-        Garafana
+        Grafana
 
 ## 1.Развертываю контейнеры docker
     docker-compoose up -d
